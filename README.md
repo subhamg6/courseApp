@@ -1,5 +1,5 @@
 # Course Management Application
-
+#
 A **Java Spring Boot course management application** that provides a
 server-side web interface for managing courses. The application
 implements course creation, listing, updating, and deletion using
