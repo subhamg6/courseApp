@@ -9,7 +9,7 @@ The project was also **containerized with Docker and deployed on AWS
 ECS**, with the application image stored in **Amazon ECR** and a MySQL
 container used as the database container.
 
-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 ## Project Overview
 
